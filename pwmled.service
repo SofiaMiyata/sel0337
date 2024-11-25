@@ -1,0 +1,11 @@
+[Unit]
+Description= blink pwm
+After=multi-user.target
+
+[Service]
+ExecStart=/bin/python /home/sel/1435/pwmled.py
+Execstop=/bin/python /home/sel/1435/ledstop.py
+user=SEL
+
+[Install]
+WantedBy=multi-user.target
