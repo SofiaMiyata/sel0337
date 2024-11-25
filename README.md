@@ -2,7 +2,9 @@
 ### Sofia Yuka Lazzarini Miyata N° USP:11419414 
 ### Rafael Moura Zampirolli     N°USP:1
 
-Com o intuito de estudar a adição de uma unidade de  serviço personalizada, criou-se o _unit file_ para a inicialização do programa junto ao boot da raspberry pi. Após verificar o funcionamento do systemd pelo exemplo blink.sh, colocou-se um programa python no serviço. Para a prática utilizou-se `pwmled.py`
+## Parte 1
+
+Com o intuito de estudar a adição de uma unidade de  serviço personalizada, criou-se o _unit file_ para a execução do programa junto ao boot da raspberry pi. Após verificar o funcionamento do systemd pelo exemplo blink.sh, colocou-se um programa python no serviço. Para a prática utilizou-se `pwmled.py` com um pwm de 0%, 25%, 50% e 100% a cada 0,5 segundos, realizando a sehuinte montagem em protoboard
 
 
 
