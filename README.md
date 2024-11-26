@@ -8,7 +8,7 @@ Com o intuito de estudar a adição de uma unidade de  serviço personalizada, c
 
 ![image](https://github.com/user-attachments/assets/10058596-4f0a-41ef-98f8-98d6378a4ea4)
 
-Por ser um código python foi necessário colocar o próprio Python no serviço,  feita por meio de/bin/python , o qual coloca o python em execução também na inicialização.
+Por ser um código python foi necessário colocar o próprio Python no serviço,  feita por meio de /bin/python , o qual coloca o python em execução também na inicialização. 
 
 
 
