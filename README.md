@@ -18,6 +18,9 @@ Executando posteriormente o comando `sudo systemctl stop pwmled`, o LED permanec
 
 ![20241125_111550](https://github.com/user-attachments/assets/15ef6f08-48fd-48fc-a294-d03a7d87f1f5)
 
+## Parte 2
+
+Para o prática com o GitHub, foram utulizados os comandos no terminal Linux e adicionou-se os códigos dos projetos anteriores ao respositório sel0337, incluinndo o `pwmled.py`, `ledstop.py` `pwmled.service`, além do txt contendo o `git log`.
 
 
 
